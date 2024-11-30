@@ -8,7 +8,7 @@ numpy
 
 sounddevice
 
-Its a funny repository, im not musician btw.
+Its a funny repository, im not musician.
 But this are the things u cant change and make diferent sounds
 sample_rate: This is like the quality, its like the principal thing who can change the sound.(ChatGPT Give me a 44.000hZ y try with 150.000 and sounds lot better)
 volume: regular in 0.5(Just Volume i think)
