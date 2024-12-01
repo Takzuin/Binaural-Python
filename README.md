@@ -1,4 +1,4 @@
-Binaural Audio Generator with Tkinter
+""Binaural Audio Generator with Tkinter""
 
 This project allows you to generate binaural audio tones using Python. The application provides a user-friendly graphical interface built with Tkinter, enabling you to customize audio parameters such as frequency, duration, sample rate, and volume.
 
