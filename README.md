@@ -1,4 +1,4 @@
-### Binaural Audio Generator with Tkinter
+# Binaural Audio Generator with Tkinter
 
 This project allows you to generate binaural audio tones using Python. The application provides a user-friendly graphical interface built with Tkinter, enabling you to customize audio parameters such as frequency, duration, sample rate, and volume.
 
@@ -46,7 +46,7 @@ Supports peak focus, learning, and cognitive function.
 
 Example: Left Frequency = 500 Hz, Right Frequency = 530 Hz.
 
-🛠 Recommended Parameter Values
+# 🛠 Recommended Parameter Values
 
 Here are some starting values to help you get the best results:
 
@@ -60,7 +60,7 @@ Sample Rate (Hz): 44100 Hz (standard CD quality).
 
 Volume: 0.5 (mid-level volume).
 
-🚀 How to Use
+# 🚀 How to Use
 
 Run the Python script to launch the application.
 
@@ -76,7 +76,7 @@ Click Play Sound to generate and play the audio.
 
 Use Stop Sound to end playback anytime.
 
-📦 Dependencies
+# 📦 Dependencies
 
 This application requires the following Python libraries:
 
